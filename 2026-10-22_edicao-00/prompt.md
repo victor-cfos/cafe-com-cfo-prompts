@@ -1,7 +1,9 @@
 # Prompt da semana #0: o contrato de fornecedor na frente da reforma
 
-**Edição:** Café com CFO #0, enviada em 22/10/2026
-**Para que serve:** ler um contrato de fornecedor e mostrar onde ele protege, ou não, a sua empresa quando a CBS começar a ser cobrada, em 1º/01/2027.
+- **Edição:** Café com CFO #0, enviada em 22/10/2026
+- **Para que serve:** ler um contrato de fornecedor e mostrar onde ele protege, ou não, a sua empresa quando a CBS começar a ser cobrada, em 1º/01/2027.
+- **Onde rodar:** ChatGPT, Claude, Copilot da Microsoft ou a ferramenta de IA aprovada pela sua empresa.
+- **Testado:** no ChatGPT, versão gratuita, em 07/10/2026, com o contrato fictício do fim desta página. A resposta saiu em menos de 30 segundos e não inventou artigo de lei. A lista do que falta veio longa (17 itens), então comece pelas 3 ações prioritárias do final.
 
 ## Como funciona
 

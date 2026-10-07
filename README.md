@@ -22,7 +22,7 @@ AAAA-MM-DD_edicao-NN/
 ## Como usar um prompt
 
 1. Abra o `prompt.md` da edição e copie o bloco do prompt.
-2. Cole no ChatGPT, no Claude ou na ferramenta de IA aprovada pela sua empresa.
+2. Cole no ChatGPT, no Claude, no Copilot da Microsoft ou na ferramenta de IA aprovada pela sua empresa.
 3. Substitua os marcadores entre colchetes, como `[COLE AQUI O CONTRATO ANONIMIZADO]`, pelo seu material.
 4. Confira a resposta no documento original antes de usar. A IA pode errar ou inventar referências.
 
