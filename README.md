@@ -17,7 +17,7 @@ AAAA-MM-DD_edicao-NN/
 
 | Edição | Data de envio | Tema | Prompt |
 |---|---|---|---|
-| #0 | 22/10/2026 | O contrato de fornecedor na frente da Reforma Tributária | [prompt.md](2026-10-22_edicao-00/prompt.md) |
+| #0 | 15/10/2026 | O contrato de fornecedor na frente da Reforma Tributária | [prompt.md](2026-10-15_edicao-00/prompt.md) |
 
 ## Como usar um prompt
 
