@@ -33,6 +33,32 @@ AAAA-MM-DD_edicao-NN/
 - Use a versão da ferramenta que a sua empresa aprovou. Na dúvida, não cole.
 - Os prompts ajudam na análise, mas não substituem parecer jurídico, contábil ou tributário.
 
+## Como colaborar
+
+Este repositório é mantido pelo Victor, mas a ideia é virar uma comunidade de quem trabalha no financeiro e usa IA no dia a dia. Se você adaptou um prompt e ele funcionou na sua empresa, compartilhe aqui.
+
+**O que vale mandar**
+
+- Uma versão de um prompt da newsletter adaptada para outro caso, setor ou ferramenta.
+- Um exemplo de uso real (anonimizado) e o que deu certo ou errado.
+- Correções de erros de digitação, links quebrados ou instruções confusas.
+
+**Como funciona**
+
+1. Faça um fork deste repositório (botão **Fork**, no alto da página).
+2. No seu fork, crie ou edite o arquivo. Para uma variação de prompt, crie `contribuicoes/<seu-usuario>_<tema>.md` dentro da pasta da edição, por exemplo `2026-10-15_edicao-00/contribuicoes/maria_contratos-servicos.md`.
+3. No arquivo, conte em poucas linhas o contexto (setor, ferramenta de IA usada), o prompt completo e o que mudou em relação ao original.
+4. Abra um pull request para a branch `main` explicando a contribuição.
+5. O Victor revisa todo pull request antes de entrar. Ele pode pedir ajustes nos comentários, e o PR só é incorporado depois da aprovação.
+
+**Regras rápidas**
+
+- Nada de dados reais: siga a seção [Antes de colar qualquer dado](#antes-de-colar-qualquer-dado) também no que você enviar.
+- Um assunto por pull request deixa a revisão mais rápida.
+- Seja gentil nos comentários. Todo mundo aqui está aprendendo.
+
+Prefere não mexer no GitHub? Responda qualquer e-mail da Café com CFO com a sua sugestão.
+
 ## Quer ir além do prompt?
 
 Quando o volume não cabe num chat, a [CFOs.AI](https://cfos.ai) tem formações e soluções que automatizam esses fluxos. Cada edição da newsletter indica a que combina com o tema da semana.
