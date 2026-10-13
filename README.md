@@ -18,6 +18,7 @@ AAAA-MM-DD_edicao-NN/
 | Edição | Data de envio | Tema | Prompt |
 |---|---|---|---|
 | #0 | 15/10/2026 | O contrato de fornecedor na frente da Reforma Tributária | [prompt.md](2026-10-15_edicao-00/prompt.md) |
+| #1 | 22/10/2026 | A a16z diz que você precisa de um CFO novo | [prompt.md](2026-10-22_edicao-01/prompt.md) |
 
 ## Como usar um prompt
 
