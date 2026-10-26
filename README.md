@@ -20,6 +20,7 @@ AAAA-MM-DD_edicao-NN/
 | #0 | 15/10/2026 | O contrato de fornecedor na frente da Reforma Tributária | [prompt.md](2026-10-15_edicao-00/prompt.md) |
 | #1 | 22/10/2026 | A a16z diz que você precisa de um CFO novo | [prompt.md](2026-10-22_edicao-01/prompt.md) |
 | #2 | 29/10/2026 | Comentário da DRE conferível | [prompt.md](2026-10-29_edicao-02/prompt.md) |
+| #5 | 19/11/2026 | O advogado do diabo do business case de IA | [prompt.md](2026-11-19_edicao-05/prompt.md) |
 
 ## Como usar um prompt
 
