@@ -21,6 +21,7 @@ AAAA-MM-DD_edicao-NN/
 | #1 | 22/10/2026 | A a16z diz que você precisa de um CFO novo | [prompt.md](2026-10-22_edicao-01/prompt.md) |
 | #2 | 29/10/2026 | Comentário da DRE conferível | [prompt.md](2026-10-29_edicao-02/prompt.md) |
 | #3 | 05/11/2026 | O painel que confere antes de comemorar | [prompt.md](2026-11-05_edicao-03/prompt.md) |
+| #4 | 12/11/2026 | O raio-x do cadastro antes da CBS | [prompt.md](2026-11-12_edicao-04/prompt.md) |
 
 ## Como usar um prompt
 
